@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1710691326336,
+  "timestamp": 1710692423703,
   "index": "/catalog-demo/index.html",
   "assetGroups": [
     {
@@ -11,10 +11,10 @@
         "ignoreVary": true
       },
       "urls": [
-        "/catalog-demo/assets/trade_catalogue_24_5.pdf",
+        "/catalog-demo/assets/sample.pdf",
         "/catalog-demo/favicon.ico",
         "/catalog-demo/index.html",
-        "/catalog-demo/main-6ENVZDWR.js",
+        "/catalog-demo/main-IGYLK2US.js",
         "/catalog-demo/manifest.webmanifest",
         "/catalog-demo/polyfills-RT5I6R6G.js",
         "/catalog-demo/styles-5INURTSO.css"
@@ -51,10 +51,10 @@
     "/catalog-demo/assets/icons/icon-512x512.png": "1de182f76f7329dfa8f9fcdd1fdcdd695bea6a99",
     "/catalog-demo/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/catalog-demo/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
-    "/catalog-demo/assets/trade_catalogue_24_5.pdf": "126e31c2f92e67f95662ade9c192c2c3eb92d409",
+    "/catalog-demo/assets/sample.pdf": "1f59e84376b2acda296b1b431a16e5cd5dfb7da8",
     "/catalog-demo/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/catalog-demo/index.html": "d0aff81c7d9d35cad9aaadf49f388380f8da0cc2",
-    "/catalog-demo/main-6ENVZDWR.js": "a719fdfb01339f9a37f049cb23c084c35b936e04",
+    "/catalog-demo/index.html": "b2cf220a58036644dea54f4b5e33c8fbacf8f405",
+    "/catalog-demo/main-IGYLK2US.js": "48f10edc48f8f56153588414fc5d9602f40234b4",
     "/catalog-demo/manifest.webmanifest": "735a3a36ede469248139e22a7585df56afba26dd",
     "/catalog-demo/polyfills-RT5I6R6G.js": "fe9f024576f21ff6314cf8f8332cde58b9a12416",
     "/catalog-demo/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
