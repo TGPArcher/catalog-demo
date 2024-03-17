@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1710693440292,
+  "timestamp": 1710696448550,
   "index": "/catalog-demo/index.html",
   "assetGroups": [
     {
@@ -12,6 +12,7 @@
       },
       "urls": [
         "/catalog-demo/assets/sample.pdf",
+        "/catalog-demo/assets/trade_catalogue_24_5.pdf",
         "/catalog-demo/favicon.ico",
         "/catalog-demo/index.html",
         "/catalog-demo/main-6ENVZDWR.js",
@@ -52,6 +53,7 @@
     "/catalog-demo/assets/icons/icon-72x72.png": "aa88a6096bd973be7f6d7a5489bfa6bc2463f8c4",
     "/catalog-demo/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/catalog-demo/assets/sample.pdf": "1f59e84376b2acda296b1b431a16e5cd5dfb7da8",
+    "/catalog-demo/assets/trade_catalogue_24_5.pdf": "126e31c2f92e67f95662ade9c192c2c3eb92d409",
     "/catalog-demo/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
     "/catalog-demo/index.html": "d0aff81c7d9d35cad9aaadf49f388380f8da0cc2",
     "/catalog-demo/main-6ENVZDWR.js": "a719fdfb01339f9a37f049cb23c084c35b936e04",
