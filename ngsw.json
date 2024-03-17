@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1710679288816,
+  "timestamp": 1710681485772,
   "index": "/catalog-demo/index.html",
   "assetGroups": [
     {
@@ -11,6 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/catalog-demo/assets/Trade Catalogue 24.5.pdf",
         "/catalog-demo/favicon.ico",
         "/catalog-demo/index.html",
         "/catalog-demo/main-DXWIHS7Q.js",
@@ -28,7 +29,6 @@
         "ignoreVary": true
       },
       "urls": [
-        "/catalog-demo/assets/Trade Catalogue 24.5.pdf",
         "/catalog-demo/assets/icons/icon-128x128.png",
         "/catalog-demo/assets/icons/icon-144x144.png",
         "/catalog-demo/assets/icons/icon-152x152.png",
