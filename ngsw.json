@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1710683903025,
+  "timestamp": 1710691326336,
   "index": "/catalog-demo/index.html",
   "assetGroups": [
     {
@@ -14,7 +14,7 @@
         "/catalog-demo/assets/trade_catalogue_24_5.pdf",
         "/catalog-demo/favicon.ico",
         "/catalog-demo/index.html",
-        "/catalog-demo/main-JQ4AYDVH.js",
+        "/catalog-demo/main-6ENVZDWR.js",
         "/catalog-demo/manifest.webmanifest",
         "/catalog-demo/polyfills-RT5I6R6G.js",
         "/catalog-demo/styles-5INURTSO.css"
@@ -53,8 +53,8 @@
     "/catalog-demo/assets/icons/icon-96x96.png": "7fb8f59c30ce2ff12c700321a0b39e14b3dc8f95",
     "/catalog-demo/assets/trade_catalogue_24_5.pdf": "126e31c2f92e67f95662ade9c192c2c3eb92d409",
     "/catalog-demo/favicon.ico": "9c39f434fe1261f68c5e3eefdf734630d99c5670",
-    "/catalog-demo/index.html": "a41517203582a0d5ae6a0e9a30b0af42bd08e455",
-    "/catalog-demo/main-JQ4AYDVH.js": "9aac9317edaeec8d654058a40deaba69814226b4",
+    "/catalog-demo/index.html": "d0aff81c7d9d35cad9aaadf49f388380f8da0cc2",
+    "/catalog-demo/main-6ENVZDWR.js": "a719fdfb01339f9a37f049cb23c084c35b936e04",
     "/catalog-demo/manifest.webmanifest": "735a3a36ede469248139e22a7585df56afba26dd",
     "/catalog-demo/polyfills-RT5I6R6G.js": "fe9f024576f21ff6314cf8f8332cde58b9a12416",
     "/catalog-demo/styles-5INURTSO.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
